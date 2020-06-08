@@ -1,2 +1,3 @@
 # Arduino
-this is a code amd PCB design for a digital clock
+Projects done with Arduino
+
